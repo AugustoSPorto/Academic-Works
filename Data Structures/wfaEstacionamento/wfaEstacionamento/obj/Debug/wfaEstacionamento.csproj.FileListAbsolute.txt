@@ -1,0 +1,11 @@
+C:\Users\gutos\Documents\VisualStudio Projects\wfaEstacionamento\wfaEstacionamento\bin\Debug\wfaEstacionamento.exe.config
+C:\Users\gutos\Documents\VisualStudio Projects\wfaEstacionamento\wfaEstacionamento\bin\Debug\wfaEstacionamento.exe
+C:\Users\gutos\Documents\VisualStudio Projects\wfaEstacionamento\wfaEstacionamento\bin\Debug\wfaEstacionamento.pdb
+C:\Users\gutos\Documents\VisualStudio Projects\wfaEstacionamento\wfaEstacionamento\obj\Debug\wfaEstacionamento.csproj.AssemblyReference.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaEstacionamento\wfaEstacionamento\obj\Debug\wfaEstacionamento.csproj.SuggestedBindingRedirects.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaEstacionamento\wfaEstacionamento\obj\Debug\wfaEstacionamento.Properties.Resources.resources
+C:\Users\gutos\Documents\VisualStudio Projects\wfaEstacionamento\wfaEstacionamento\obj\Debug\wfaEstacionamento.csproj.GenerateResource.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaEstacionamento\wfaEstacionamento\obj\Debug\wfaEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaEstacionamento\wfaEstacionamento\obj\Debug\wfaEstacionamento.exe
+C:\Users\gutos\Documents\VisualStudio Projects\wfaEstacionamento\wfaEstacionamento\obj\Debug\wfaEstacionamento.pdb
+C:\Users\gutos\Documents\VisualStudio Projects\wfaEstacionamento\wfaEstacionamento\obj\Debug\wfaEstacionamento.Form1.resources

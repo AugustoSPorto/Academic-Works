@@ -1,0 +1,151 @@
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.exe
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.deps.json
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.runtimeconfig.json
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.dll
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.pdb
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.csproj.AssemblyReference.cache
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.Form1.resources
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.Properties.Resources.resources
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.csproj.GenerateResource.cache
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.sourcelink.json
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SW.082A2D5D.Up2Date
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.dll
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\obj\Debug\net8.0-windows\refint\Mod1b_SWmockup.dll
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.pdb
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.genruntimeconfig.cache
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\obj\Debug\net8.0-windows\ref\Mod1b_SWmockup.dll
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormDashboard.resources
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormCadastro.resources
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormSobre.resources
+C:\Users\Guilherme\source\repos\Mod1b_SWmockup\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormParametrizacao.resources
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.exe
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.deps.json
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.runtimeconfig.json
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.dll
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.pdb
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.csproj.AssemblyReference.cache
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.Form1.resources
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormCadastro.resources
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormDashboard.resources
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormParametrizacao.resources
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormSobre.resources
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.Properties.Resources.resources
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.csproj.GenerateResource.cache
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.AssemblyInfoInputs.cache
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.AssemblyInfo.cs
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SW.082A2D5D.Up2Date
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.dll
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\refint\Mod1b_SWmockup.dll
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.pdb
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.genruntimeconfig.cache
+C:\Users\marco\Downloads\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\ref\Mod1b_SWmockup.dll
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.exe
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.deps.json
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.runtimeconfig.json
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.dll
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.pdb
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.Form1.resources
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormCadastro.resources
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormDashboard.resources
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormParametrizacao.resources
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormSobre.resources
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.csproj.GenerateResource.cache
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.sourcelink.json
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SW.082A2D5D.Up2Date
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.dll
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\refint\Mod1b_SWmockup.dll
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.pdb
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.genruntimeconfig.cache
+C:\Users\Guilherme\Desktop\UFU\tempo real\STR-main\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\ref\Mod1b_SWmockup.dll
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.exe
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.deps.json
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.runtimeconfig.json
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.dll
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.pdb
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.csproj.AssemblyReference.cache
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.Form1.resources
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormCadastro.resources
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormDashboard.resources
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormParametrizacao.resources
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormSobre.resources
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.Properties.Resources.resources
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.csproj.GenerateResource.cache
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.AssemblyInfoInputs.cache
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.AssemblyInfo.cs
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.sourcelink.json
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SW.082A2D5D.Up2Date
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.dll
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\refint\Mod1b_SWmockup.dll
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.pdb
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.genruntimeconfig.cache
+C:\Users\Guilherme\source\repos\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\ref\Mod1b_SWmockup.dll
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.exe
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.deps.json
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.runtimeconfig.json
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.dll
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.pdb
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.csproj.AssemblyReference.cache
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.Form1.resources
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormCadastro.resources
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormDashboard.resources
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormSobre.resources
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.Properties.Resources.resources
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.csproj.GenerateResource.cache
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.AssemblyInfoInputs.cache
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.AssemblyInfo.cs
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.csproj.CoreCompileInputs.cache
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SW.082A2D5D.Up2Date
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.dll
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\refint\Mod1b_SWmockup.dll
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.pdb
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.genruntimeconfig.cache
+C:\Users\marco\Music\STR-main\Mod1b_SWmockup\obj\Debug\net8.0-windows\ref\Mod1b_SWmockup.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.csproj.AssemblyReference.cache
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\obj\Debug\net8.0-windows\refint\Mod1b_SWmockup.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.pdb
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.exe
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.deps.json
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.runtimeconfig.json
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\bin\Debug\net8.0-windows\Mod1b_SWmockup.pdb
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\bin\Debug\net8.0-windows\ReaLTaiizor.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.Form1.resources
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormCadastro.resources
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormDashboard.resources
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.FormSobre.resources
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.Properties.Resources.resources
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.csproj.GenerateResource.cache
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.AssemblyInfoInputs.cache
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.AssemblyInfo.cs
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SW.082A2D5D.Up2Date
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\obj\Debug\net8.0-windows\Mod1b_SWmockup.genruntimeconfig.cache
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo1 - Grupo\Mod1b_SWmockup\obj\Debug\net8.0-windows\ref\Mod1b_SWmockup.dll

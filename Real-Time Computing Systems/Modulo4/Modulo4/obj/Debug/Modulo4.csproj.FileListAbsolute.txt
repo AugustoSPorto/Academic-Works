@@ -1,0 +1,13 @@
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo4\Modulo4\bin\Debug\Modulo4.exe.config
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo4\Modulo4\bin\Debug\Modulo4.exe
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo4\Modulo4\bin\Debug\Modulo4.pdb
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo4\Modulo4\obj\Debug\Modulo4.csproj.AssemblyReference.cache
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo4\Modulo4\obj\Debug\Modulo4.Form1.resources
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo4\Modulo4\obj\Debug\Modulo4.Properties.Resources.resources
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo4\Modulo4\obj\Debug\Modulo4.csproj.GenerateResource.cache
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo4\Modulo4\obj\Debug\Modulo4.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo4\Modulo4\obj\Debug\Modulo4.exe
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo4\Modulo4\obj\Debug\Modulo4.pdb
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo4\Modulo4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo4\Modulo4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo4\Modulo4\obj\Debug\Modulo4.csproj.Up2Date

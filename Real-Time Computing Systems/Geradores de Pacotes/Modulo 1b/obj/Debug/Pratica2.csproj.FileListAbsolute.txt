@@ -1,0 +1,192 @@
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\Pratica2.exe.config
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\Pratica2.exe
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\Pratica2.pdb
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\obj\Debug\Pratica2.csproj.AssemblyReference.cache
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\obj\Debug\Pratica2.FormTelaPrincipal.resources
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\obj\Debug\Pratica2.Properties.Resources.resources
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\obj\Debug\Pratica2.csproj.GenerateResource.cache
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\obj\Debug\Pratica2.csproj.CoreCompileInputs.cache
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\obj\Debug\Pratica2.exe
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\obj\Debug\Pratica2.pdb
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\libSkiaSharp.dylib
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\SkiaSharp.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.Buffers.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.Memory.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.ValueTuple.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\SkiaSharp.pdb
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\SkiaSharp.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.Buffers.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.Memory.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.ValueTuple.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\obj\Debug\Pratica2.csproj.CopyComplete
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\System.Drawing.Common.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\OpenTK.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\SkiaSharp.Views.WindowsForms.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\OpenTK.pdb
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\OpenTK.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\SkiaSharp.Views.WindowsForms.pdb
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\SkiaSharp.Views.WindowsForms.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\ScottPlot.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica2\bin\Debug\ScottPlot.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\obj\Debug\Pratica2.csproj.AssemblyReference.cache
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\obj\Debug\Pratica2.FormTelaPrincipal.resources
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\obj\Debug\Pratica2.Properties.Resources.resources
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\obj\Debug\Pratica2.csproj.GenerateResource.cache
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\obj\Debug\Pratica2.csproj.CoreCompileInputs.cache
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\obj\Debug\Pratica2.exe
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\obj\Debug\Pratica2.pdb
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\libSkiaSharp.dylib
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\Pratica2.exe.config
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\Pratica2.exe
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\Pratica2.pdb
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\OpenTK.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\ScottPlot.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\SkiaSharp.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\SkiaSharp.Views.WindowsForms.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\System.Buffers.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\System.Drawing.Common.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\System.Memory.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\System.ValueTuple.dll
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\OpenTK.pdb
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\OpenTK.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\ScottPlot.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\SkiaSharp.pdb
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\SkiaSharp.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\SkiaSharp.Views.WindowsForms.pdb
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\SkiaSharp.Views.WindowsForms.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\System.Buffers.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\System.Memory.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\bin\Debug\System.ValueTuple.xml
+C:\Users\Alan Petrônio\OneDrive\DISCIPLINAS\A - Graduacao\a - STR\Praticas\Pratica3 - mockup modulo 1b\obj\Debug\Pratica2.csproj.CopyComplete
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\libSkiaSharp.dylib
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\Pratica2.exe.config
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\Pratica2.exe
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\Pratica2.pdb
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\OpenTK.dll
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\ScottPlot.dll
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\SkiaSharp.dll
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\SkiaSharp.Views.WindowsForms.dll
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\System.Buffers.dll
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\System.Drawing.Common.dll
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\System.Memory.dll
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\System.ValueTuple.dll
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\OpenTK.pdb
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\OpenTK.xml
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\ScottPlot.xml
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\SkiaSharp.pdb
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\SkiaSharp.xml
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\SkiaSharp.Views.WindowsForms.pdb
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\SkiaSharp.Views.WindowsForms.xml
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\System.Buffers.xml
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\System.Memory.xml
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\bin\Debug\System.ValueTuple.xml
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\obj\Debug\Pratica2.csproj.AssemblyReference.cache
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\obj\Debug\Pratica2.FormTelaPrincipal.resources
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\obj\Debug\Pratica2.Properties.Resources.resources
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\obj\Debug\Pratica2.csproj.GenerateResource.cache
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\obj\Debug\Pratica2.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\obj\Debug\Pratica2.csproj.Up2Date
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\obj\Debug\Pratica2.exe
+C:\Users\Augusto\Downloads\pratica3\Pratica3 - mockup modulo 1b\obj\Debug\Pratica2.pdb
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\libSkiaSharp.dylib
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\Pratica2.exe.config
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\Pratica2.exe
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\Pratica2.pdb
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\OpenTK.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\ScottPlot.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\ScottPlot.WinForms.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\SkiaSharp.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\SkiaSharp.Views.WindowsForms.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\System.Buffers.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\System.Drawing.Common.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\System.Memory.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\System.ValueTuple.dll
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\OpenTK.pdb
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\OpenTK.xml
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\ScottPlot.xml
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\SkiaSharp.pdb
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\SkiaSharp.xml
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\SkiaSharp.Views.WindowsForms.pdb
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\SkiaSharp.Views.WindowsForms.xml
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\System.Buffers.xml
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\System.Memory.xml
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\bin\Debug\System.ValueTuple.xml
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\obj\Debug\Pratica2.csproj.AssemblyReference.cache
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\obj\Debug\Pratica2.Properties.Resources.resources
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\obj\Debug\Pratica2.csproj.GenerateResource.cache
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\obj\Debug\Pratica2.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\obj\Debug\Pratica2.csproj.Up2Date
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\obj\Debug\Pratica2.exe
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\obj\Debug\Pratica2.pdb
+C:\Users\Augusto\OneDrive\Área de Trabalho\Modulo 1b\obj\Debug\Modulo1.FormModulo1.resources

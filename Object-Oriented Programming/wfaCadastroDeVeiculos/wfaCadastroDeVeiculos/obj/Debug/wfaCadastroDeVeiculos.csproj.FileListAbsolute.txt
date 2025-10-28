@@ -1,0 +1,11 @@
+C:\Users\gutos\Documents\VisualStudio Projects\wfaCadastroDeVeiculos\wfaCadastroDeVeiculos\bin\Debug\wfaCadastroDeVeiculos.exe.config
+C:\Users\gutos\Documents\VisualStudio Projects\wfaCadastroDeVeiculos\wfaCadastroDeVeiculos\bin\Debug\wfaCadastroDeVeiculos.exe
+C:\Users\gutos\Documents\VisualStudio Projects\wfaCadastroDeVeiculos\wfaCadastroDeVeiculos\bin\Debug\wfaCadastroDeVeiculos.pdb
+C:\Users\gutos\Documents\VisualStudio Projects\wfaCadastroDeVeiculos\wfaCadastroDeVeiculos\obj\Debug\wfaCadastroDeVeiculos.csproj.AssemblyReference.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaCadastroDeVeiculos\wfaCadastroDeVeiculos\obj\Debug\wfaCadastroDeVeiculos.csproj.SuggestedBindingRedirects.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaCadastroDeVeiculos\wfaCadastroDeVeiculos\obj\Debug\wfaCadastroDeVeiculos.Form1.resources
+C:\Users\gutos\Documents\VisualStudio Projects\wfaCadastroDeVeiculos\wfaCadastroDeVeiculos\obj\Debug\wfaCadastroDeVeiculos.Properties.Resources.resources
+C:\Users\gutos\Documents\VisualStudio Projects\wfaCadastroDeVeiculos\wfaCadastroDeVeiculos\obj\Debug\wfaCadastroDeVeiculos.csproj.GenerateResource.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaCadastroDeVeiculos\wfaCadastroDeVeiculos\obj\Debug\wfaCadastroDeVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaCadastroDeVeiculos\wfaCadastroDeVeiculos\obj\Debug\wfaCadastroDeVeiculos.exe
+C:\Users\gutos\Documents\VisualStudio Projects\wfaCadastroDeVeiculos\wfaCadastroDeVeiculos\obj\Debug\wfaCadastroDeVeiculos.pdb

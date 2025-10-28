@@ -1,0 +1,11 @@
+C:\Users\gutos\Documents\VisualStudio Projects\wfaConferirSintaxeMatlab\wfaConferirSintaxeMatlab\obj\Debug\wfaConferirSintaxeMatlab.csproj.AssemblyReference.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaConferirSintaxeMatlab\wfaConferirSintaxeMatlab\obj\Debug\wfaConferirSintaxeMatlab.csproj.SuggestedBindingRedirects.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaConferirSintaxeMatlab\wfaConferirSintaxeMatlab\obj\Debug\wfaConferirSintaxeMatlab.ConfereMatLab.resources
+C:\Users\gutos\Documents\VisualStudio Projects\wfaConferirSintaxeMatlab\wfaConferirSintaxeMatlab\obj\Debug\wfaConferirSintaxeMatlab.Properties.Resources.resources
+C:\Users\gutos\Documents\VisualStudio Projects\wfaConferirSintaxeMatlab\wfaConferirSintaxeMatlab\obj\Debug\wfaConferirSintaxeMatlab.csproj.GenerateResource.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaConferirSintaxeMatlab\wfaConferirSintaxeMatlab\obj\Debug\wfaConferirSintaxeMatlab.csproj.CoreCompileInputs.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaConferirSintaxeMatlab\wfaConferirSintaxeMatlab\bin\Debug\wfaConferirSintaxeMatlab.exe.config
+C:\Users\gutos\Documents\VisualStudio Projects\wfaConferirSintaxeMatlab\wfaConferirSintaxeMatlab\bin\Debug\wfaConferirSintaxeMatlab.exe
+C:\Users\gutos\Documents\VisualStudio Projects\wfaConferirSintaxeMatlab\wfaConferirSintaxeMatlab\bin\Debug\wfaConferirSintaxeMatlab.pdb
+C:\Users\gutos\Documents\VisualStudio Projects\wfaConferirSintaxeMatlab\wfaConferirSintaxeMatlab\obj\Debug\wfaConferirSintaxeMatlab.exe
+C:\Users\gutos\Documents\VisualStudio Projects\wfaConferirSintaxeMatlab\wfaConferirSintaxeMatlab\obj\Debug\wfaConferirSintaxeMatlab.pdb

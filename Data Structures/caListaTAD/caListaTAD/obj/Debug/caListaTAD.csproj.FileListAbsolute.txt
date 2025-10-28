@@ -1,0 +1,8 @@
+C:\Users\gutos\Documents\VisualStudio Projects\caListaTAD\caListaTAD\bin\Debug\caListaTAD.exe.config
+C:\Users\gutos\Documents\VisualStudio Projects\caListaTAD\caListaTAD\bin\Debug\caListaTAD.exe
+C:\Users\gutos\Documents\VisualStudio Projects\caListaTAD\caListaTAD\bin\Debug\caListaTAD.pdb
+C:\Users\gutos\Documents\VisualStudio Projects\caListaTAD\caListaTAD\obj\Debug\caListaTAD.csproj.AssemblyReference.cache
+C:\Users\gutos\Documents\VisualStudio Projects\caListaTAD\caListaTAD\obj\Debug\caListaTAD.csproj.SuggestedBindingRedirects.cache
+C:\Users\gutos\Documents\VisualStudio Projects\caListaTAD\caListaTAD\obj\Debug\caListaTAD.csproj.CoreCompileInputs.cache
+C:\Users\gutos\Documents\VisualStudio Projects\caListaTAD\caListaTAD\obj\Debug\caListaTAD.exe
+C:\Users\gutos\Documents\VisualStudio Projects\caListaTAD\caListaTAD\obj\Debug\caListaTAD.pdb

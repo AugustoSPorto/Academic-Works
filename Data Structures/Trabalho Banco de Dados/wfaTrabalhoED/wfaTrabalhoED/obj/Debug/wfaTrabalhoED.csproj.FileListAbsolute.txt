@@ -1,0 +1,11 @@
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrabalhoED\wfaTrabalhoED\bin\Debug\wfaTrabalhoED.exe.config
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrabalhoED\wfaTrabalhoED\bin\Debug\wfaTrabalhoED.exe
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrabalhoED\wfaTrabalhoED\bin\Debug\wfaTrabalhoED.pdb
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrabalhoED\wfaTrabalhoED\obj\Debug\wfaTrabalhoED.csproj.AssemblyReference.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrabalhoED\wfaTrabalhoED\obj\Debug\wfaTrabalhoED.csproj.SuggestedBindingRedirects.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrabalhoED\wfaTrabalhoED\obj\Debug\wfaTrabalhoED.Form1.resources
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrabalhoED\wfaTrabalhoED\obj\Debug\wfaTrabalhoED.Properties.Resources.resources
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrabalhoED\wfaTrabalhoED\obj\Debug\wfaTrabalhoED.csproj.GenerateResource.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrabalhoED\wfaTrabalhoED\obj\Debug\wfaTrabalhoED.csproj.CoreCompileInputs.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrabalhoED\wfaTrabalhoED\obj\Debug\wfaTrabalhoED.exe
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrabalhoED\wfaTrabalhoED\obj\Debug\wfaTrabalhoED.pdb

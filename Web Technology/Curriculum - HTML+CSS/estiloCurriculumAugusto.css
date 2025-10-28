@@ -1,0 +1,15 @@
+/* Aluno: Augusto Soares Porto - 12121ECP016 */
+#cabecalho{
+    min-height: 2.5cm;
+    text-align: center;
+    background-color: darkslategray;
+    color: white;
+}
+h2{
+    color:darkslategray;
+}
+#corpo{
+    padding-left:50px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}

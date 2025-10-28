@@ -1,0 +1,80 @@
+/*		SUGESTÃO DE MELHORIAS
+	Augusto Soares Porto - 12121ECP016	*/
+
+-- Cria-se sequencia para a integrar-la a tb_cliente
+CREATE SEQUENCE empresax.sq_pk_tb_cliente START 1;
+
+CREATE TABLE empresax.tb_cliente (
+-- A fim de que os ids de diferentes clientes não colindam, adiciona-se DEFAULT NEXTVAL() ao id_cliente
+  id_cliente 	INTEGER DEFAULT NEXTVAL('empresax.sq_pk_tb_cliente'),
+  titulo 	CHAR(4),
+  nome 		VARCHAR(32) CONSTRAINT nn_nome 		NOT NULL,
+  sobrenome 	VARCHAR(32) CONSTRAINT nn_sobrenome 	NOT NULL,
+  endereco	VARCHAR(62) CONSTRAINT nn_endereco 	NOT NULL,
+  numero	VARCHAR(5)  CONSTRAINT nn_numero 	NOT NULL, 
+  complemento	VARCHAR(62),
+-- Caso a aplicação não trabalhe isso, pode ser interessante adicionar um constraint para o cep
+  cep		VARCHAR(10) CONSTRAINT nn_cep       	NOT NULL,
+  cidade	VARCHAR(62) CONSTRAINT nn_cidade 	NOT NULL,
+  estado	CHAR(2)     CONSTRAINT nn_estado 	NOT NULL,
+  fone_fixo	VARCHAR(15) CONSTRAINT nn_fone_fixo 	NOT NULL,
+  fone_movel	VARCHAR(15) CONSTRAINT nn_fone_movel 	NOT NULL,
+  fg_ativo 	INTEGER,
+  CONSTRAINT pk_id_cliente PRIMARY KEY(id_cliente)
+);
+
+-- Cria-se sequencia para a integrar-la a tb_item
+CREATE SEQUENCE empresax.sq_pk_tb_item START 1;
+
+CREATE TABLE empresax.tb_item(
+-- Em paralelo, adiciona-se DEFAULT NEXTVAL() a id_item
+  id_item 	INTEGER DEFAULT NEXTVAL('empresax.sq_pk_tb_item'),
+  ds_item 	VARCHAR(64) CONSTRAINT nn_ds_item NOT NULL,
+  preco_custo 	NUMERIC(7,2),
+  preco_venda 	NUMERIC(7,2),
+  fg_ativo 	INTEGER,
+  CONSTRAINT pk_id_item PRIMARY KEY(id_item)
+);
+
+-- Cria-se sequencia para a integrar-la a tb_pedido
+CREATE SEQUENCE empresax.sq_pk_tb_pedido START 1;
+
+CREATE TABLE empresax.tb_pedido (
+-- Por fim, adiciona-se DEFAULT NEXTVAL() a id_pedido
+  id_pedido 	INTEGER DEFAULT NEXTVAL('empresax.sq_pk_tb_pedido'),
+  id_cliente 	INTEGER CONSTRAINT nn_id_cliente NOT NULL,
+  dt_compra 	TIMESTAMP,
+  dt_entrega 	TIMESTAMP,
+  valor 	NUMERIC(7,2),
+  fg_ativo 	INTEGER ,
+  CONSTRAINT pk_id_pedido PRIMARY KEY(id_pedido),
+  CONSTRAINT fk_ped_id_cliente FOREIGN KEY(id_cliente) 
+    REFERENCES empresax.tb_cliente(id_cliente));
+
+
+CREATE TABLE empresax.tb_item_pedido (
+  id_item 	INTEGER,
+  id_pedido 	INTEGER,
+  quantidade 	INTEGER,
+  CONSTRAINT pk_item_pedido PRIMARY KEY(id_item, id_pedido),
+  CONSTRAINT fk_ped_id_item FOREIGN KEY(id_item) 
+    REFERENCES empresax.tb_item(id_item),
+  CONSTRAINT fk_ped_id_pedido FOREIGN KEY(id_pedido) 
+    REFERENCES empresax.tb_pedido(id_pedido));
+
+
+CREATE TABLE empresax.tb_codigo_barras (
+  codigo_barras 	INTEGER CONSTRAINT nn_codigo_barras NOT NULL,
+  id_item 		INTEGER CONSTRAINT nn_id_item NOT NULL,
+  CONSTRAINT fk_cod_id_item FOREIGN KEY(id_item) 
+     REFERENCES empresax.tb_item(id_item)
+);
+
+
+CREATE TABLE empresax.tb_estoque (
+  id_item 	INTEGER,
+  quantidade 	INTEGER,
+  CONSTRAINT pk_est_id_item PRIMARY KEY(id_item),
+  CONSTRAINT fk_est_id_item FOREIGN KEY(id_item) 
+    REFERENCES empresax.tb_item(id_item)
+);

@@ -1,0 +1,11 @@
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrocaPecas\wfaTrocaPecas\bin\Debug\wfaTrocaPecas.exe.config
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrocaPecas\wfaTrocaPecas\bin\Debug\wfaTrocaPecas.exe
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrocaPecas\wfaTrocaPecas\bin\Debug\wfaTrocaPecas.pdb
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrocaPecas\wfaTrocaPecas\obj\Debug\wfaTrocaPecas.csproj.AssemblyReference.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrocaPecas\wfaTrocaPecas\obj\Debug\wfaTrocaPecas.csproj.SuggestedBindingRedirects.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrocaPecas\wfaTrocaPecas\obj\Debug\wfaTrocaPecas.Form1.resources
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrocaPecas\wfaTrocaPecas\obj\Debug\wfaTrocaPecas.Properties.Resources.resources
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrocaPecas\wfaTrocaPecas\obj\Debug\wfaTrocaPecas.csproj.GenerateResource.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrocaPecas\wfaTrocaPecas\obj\Debug\wfaTrocaPecas.csproj.CoreCompileInputs.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrocaPecas\wfaTrocaPecas\obj\Debug\wfaTrocaPecas.exe
+C:\Users\gutos\Documents\VisualStudio Projects\wfaTrocaPecas\wfaTrocaPecas\obj\Debug\wfaTrocaPecas.pdb

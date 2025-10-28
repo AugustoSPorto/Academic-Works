@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cidB6CzXy2o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Augusto\\OneDrive\\Área de Trabalho\\Modulo1 - Grupo\\Mod1b_SWmockup\\Mod1b_SWmockup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Augusto\\.nuget\\packages\\fontawesome\\4.7.0\\fontawesome.4.7.0.nupkg.sha512",
+    "C:\\Users\\Augusto\\.nuget\\packages\\fontawesome.sharp\\6.6.0\\fontawesome.sharp.6.6.0.nupkg.sha512",
+    "C:\\Users\\Augusto\\.nuget\\packages\\realtaiizor\\3.8.1.2\\realtaiizor.3.8.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\gutos\Documents\VisualStudio Projects\wfaPorto\wfaPorto\bin\Debug\wfaPorto.exe.config
+C:\Users\gutos\Documents\VisualStudio Projects\wfaPorto\wfaPorto\bin\Debug\wfaPorto.exe
+C:\Users\gutos\Documents\VisualStudio Projects\wfaPorto\wfaPorto\bin\Debug\wfaPorto.pdb
+C:\Users\gutos\Documents\VisualStudio Projects\wfaPorto\wfaPorto\obj\Debug\wfaPorto.csproj.AssemblyReference.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaPorto\wfaPorto\obj\Debug\wfaPorto.csproj.SuggestedBindingRedirects.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaPorto\wfaPorto\obj\Debug\wfaPorto.Form1.resources
+C:\Users\gutos\Documents\VisualStudio Projects\wfaPorto\wfaPorto\obj\Debug\wfaPorto.Properties.Resources.resources
+C:\Users\gutos\Documents\VisualStudio Projects\wfaPorto\wfaPorto\obj\Debug\wfaPorto.csproj.GenerateResource.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaPorto\wfaPorto\obj\Debug\wfaPorto.csproj.CoreCompileInputs.cache
+C:\Users\gutos\Documents\VisualStudio Projects\wfaPorto\wfaPorto\obj\Debug\wfaPorto.exe
+C:\Users\gutos\Documents\VisualStudio Projects\wfaPorto\wfaPorto\obj\Debug\wfaPorto.pdb
