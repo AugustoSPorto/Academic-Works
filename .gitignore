@@ -1,0 +1,63 @@
+# -------------------
+# Sistema / OS
+# -------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -------------------
+# Python
+# -------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+*.mypy_cache/
+*.venv/
+env/
+venv/
+
+# -------------------
+# C / C++
+# -------------------
+*.o
+*.obj
+*.exe
+*.out
+*.log
+
+# -------------------
+# C# / .NET
+# -------------------
+bin/
+obj/
+*.user
+*.suo
+*.tmp
+*.log
+*.vs/
+*.ncb
+*.VC.db
+*.VC.opendb
+
+# -------------------
+# Assembly / Verilog
+# -------------------
+*.hex
+*.vcd
+*.bin
+
+# -------------------
+# IDEs
+# -------------------
+.vscode/
+.idea/
+*.iml
+
+# -------------------
+# Arquivos temporários
+# -------------------
+*~
+*.swp
+*.bak
