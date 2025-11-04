@@ -4,11 +4,14 @@ obj/* linguist-vendored
 */bin/* linguist-vendored
 */obj/* linguist-vendored
 
-# Ignorar arquivos gerados automaticamente
+# Ignorar arquivos C# gerados automaticamente no cálculo de linguagens
 *.Designer.cs linguist-generated
 *.g.cs linguist-generated
 *.AssemblyInfo.cs linguist-generated
+*.csproj linguist-vendored
+*.sln linguist-vendored
 
 # Não contar dependências de terceiros
 vendor/* linguist-vendored
 packages/* linguist-vendored
+
