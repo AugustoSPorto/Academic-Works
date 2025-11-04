@@ -1,3 +1,5 @@
+// Coleções: Crie um programa que lê uma lista de palavras e conta a frequência de cada palavra usando HashMap.
+
 use std::collections::HashMap;
 
 use std::fs::File;

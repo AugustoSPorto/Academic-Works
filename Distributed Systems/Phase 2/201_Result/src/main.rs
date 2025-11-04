@@ -1,3 +1,6 @@
+// 1. Result: Implemente uma calculadora que lê dois números e uma operação da linha de comando.
+// Retorne Result<f64, String> para tratar divisão por zero e operações inválidas.
+
 use std::io;
 
 struct Calculator {
