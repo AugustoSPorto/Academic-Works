@@ -15,3 +15,13 @@ obj/* linguist-vendored
 vendor/* linguist-vendored
 packages/* linguist-vendored
 
+
+# Especificar linguagem Rust
+*.rs linguist-language=Rust
+Cargo.toml linguist-language=Rust
+Cargo.lock linguist-language=Rust
+
+# Ignorar arquivos C# do Unity
+Final Project - Beat Saber Inspired Game/Library/PackageCache/** linguist-vendored
+Final Project - Beat Saber Inspired Game/Assets/*.cs linguist-vendored
+*.cs linguist-vendored
