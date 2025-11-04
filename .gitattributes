@@ -1,0 +1,14 @@
+# Ignorar arquivos compilados e de build
+bin/* linguist-vendored
+obj/* linguist-vendored
+*/bin/* linguist-vendored
+*/obj/* linguist-vendored
+
+# Ignorar arquivos gerados automaticamente
+*.Designer.cs linguist-generated
+*.g.cs linguist-generated
+*.AssemblyInfo.cs linguist-generated
+
+# Não contar dependências de terceiros
+vendor/* linguist-vendored
+packages/* linguist-vendored
