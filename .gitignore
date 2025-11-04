@@ -1,0 +1,118 @@
+# -------------------
+# Sistema / OS
+# -------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# -------------------
+# Python
+# -------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+*.mypy_cache/
+*.venv/
+env/
+venv/
+
+# -------------------
+# C / C++
+# -------------------
+*.o
+*.obj
+*.exe
+*.out
+*.log
+
+# -------------------
+# C# / .NET
+# -------------------
+bin/
+obj/
+*.user
+*.suo
+*.tmp
+*.log
+*.vs/
+*.ncb
+*.VC.db
+*.VC.opendb
+
+# -------------------
+# RUST
+# -------------------
+target/
+*.rs.bk
+
+# -------------------
+# Assembly / Verilog
+# -------------------
+*.hex
+*.vcd
+*.bin
+
+# -------------------
+# IDEs
+# -------------------
+.vscode/
+.idea/
+*.iml
+*.vs/
+*.sln.docstates
+.gitignore
+
+# -------------------
+# Unity
+# -------------------
+# Diretórios gerados automaticamente
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+DerivedDataCache/
+# Projetos com Addressables e pacotes locais
+*.addressables
+# Cache do Package Manager e do Editor
+*.pidb
+*.mdb
+*.opendb
+*.booproj
+*.svd
+*.userprefs
+# Diretórios opcionais de versões antigas
+sysinfo.txt
+*.apk
+*.aab
+*.xcuserstate
+# Cache do Rider / VS
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.tmp
+*.pidb.meta
+*.pdb
+*.mdb
+*.idb
+
+# -------------------
+# Arquivos temporários
+# -------------------
+*~
+*.swp
+*.bak
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.nupkg
+*.zip
