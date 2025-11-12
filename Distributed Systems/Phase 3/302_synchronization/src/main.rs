@@ -1,8 +1,8 @@
 // 2. Sincronização: Crie 5 threads que incrementam um contador compartilhado 1000 vezes cada.
 // Use Arc<Mutex<i32>> e verifique que o resultado final é 5000.
 
-// Arc compartilha a posse do contador entre múltiplas threads.
-// Mutex garante que apenas uma thread possa modificar o contador por vez.
+// Arc (Atomic Reference Counted) compartilha a posse do contador entre múltiplas threads.
+// Mutex (Mutual Exclusion) garante que apenas uma thread possa modificar o contador por vez.
 use std::sync::{Arc, Mutex};
 use std::thread;
 
