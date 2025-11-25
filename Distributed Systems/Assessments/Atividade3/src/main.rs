@@ -49,17 +49,17 @@ fn main() {
     let num_consumers = 2;
     let items_per_producer = 50;
 
-    let mut producers = vec![];
-    let mut consumers = vec![];
+    let mut list_producers = vec![];
+    let mut list_consumers = vec![];
 
     // ---- PRODUCERS ----
     for p in 1..=num_producers {
         let queue_producers = queue.clone();
 
-        producers.push(thread::spawn(move || {
+        list_producers.push(thread::spawn(move || {
 
             for i in 1..=items_per_producer {
-                println!("Produtor {p} produziu {i}");
+                println!("|* Producer {p} produced {i} *|");
                 queue_producers.push((p, i));
                 thread::sleep(Duration::from_millis(10));
             }
@@ -70,24 +70,23 @@ fn main() {
     for c in 1..=num_consumers {
         let queue_consumers = queue.clone();
 
-        consumers.push(thread::spawn(move || {
+        list_consumers.push(thread::spawn(move || {
             loop {
-                let (produtor, item) = queue_consumers.pop();
+                let (producer, item) = queue_consumers.pop();
                 
                 // Encerra a thread do consumidor ao receber sentinela
-                if produtor == -1 {
-                    println!("Consumidor {c} finalizou.");
+                if producer == -1 {
                     break;
                 }
 
-                println!("Consumidor {c} consumiu {item} do produtor {produtor}");
+                println!("-- Consumer {c} consumed {item} from producer {producer}");
                 thread::sleep(Duration::from_millis(50));
             }
         }));
     }
 
     // Esperar os produtores terminarem
-    for p in producers {
+    for p in list_producers {
         p.join().unwrap();
     }
 
@@ -97,9 +96,9 @@ fn main() {
     }
 
     // Esperar consumidores terminarem
-    for c in consumers {
+    for c in list_consumers {
         c.join().unwrap();
     }
 
-    println!("Programa finalizado.");
+    println!("ALL PRODUCERS AND CONSUMERS HAVE FINISHED!!!");
 }
